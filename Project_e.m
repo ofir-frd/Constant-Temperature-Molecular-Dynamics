@@ -1,8 +1,5 @@
 %% Introduction to Computational Materials Engineering
 % Final Project 8.24 - task e
-% Written by Ofir Friedman 300483153
-% Written in Matlab R2013a
-% ofirfr@post.bgu.ac.il
 
 %% initial function
 % recives first parameters pf the simulation
